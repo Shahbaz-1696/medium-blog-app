@@ -14,6 +14,7 @@ npm install
 
 "/signin" is the route for signing in.
 "/signup" is the route for signing up.
+"/blogs" will be the home route you will be redirected to after logging in.
 Please signup or log in first to see the blog posts.
 
 ## Contributing
